@@ -8,7 +8,7 @@
 
 **期末实验报告请见**：[期末大作业实验报告](期末大作业实验报告.md)
 
-**智能合约代码请见**：[SupplyChain.sol](./BackEnd/packages/cli/contracts/SupplyChain.sol)
+**智能合约代码请见**：[SupplyChain.sol](./BackEnd/packages/cli/contracts/SupplyChain1.sol)
 
 **视频演示请见**：[视频演示](./视频演示.mp4)
 
