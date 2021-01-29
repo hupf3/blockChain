@@ -1,0 +1,39 @@
+config file path : config.ini
+[2021-01-29 00:42:42] Initializing...
+FISCO-BCOS Version : 2.7.0
+Build Time         : 20201126 08:04:59
+Build Type         : Darwin/appleclang/RelWithDebInfo
+Git Branch         : HEAD
+Git Commit Hash    : 0bc47666979df4766723adf1ab9c5d80f5e40537
+[2021-01-29 00:42:42] The FISCO-BCOS is running...
+config file path : config.ini
+[2021-01-29 07:36:40] Initializing...
+FISCO-BCOS Version : 2.7.0
+Build Time         : 20201126 08:04:59
+Build Type         : Darwin/appleclang/RelWithDebInfo
+Git Branch         : HEAD
+Git Commit Hash    : 0bc47666979df4766723adf1ab9c5d80f5e40537
+[2021-01-29 07:36:40] The FISCO-BCOS is running...
+config file path : config.ini
+[2021-01-29 11:20:35] Initializing...
+[INITIALIZER][P2PInitializer]initConfig for P2PInitializer failed,check Port=30303,EINFO=Throw location unknown (consider using BOOST_THROW_EXCEPTION)
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::system::system_error> >
+std::exception::what: bind: Address already in use
+
+config file path : config.ini
+[2021-01-29 11:23:23] Initializing...
+FISCO-BCOS Version : 2.7.0
+Build Time         : 20201126 08:04:59
+Build Type         : Darwin/appleclang/RelWithDebInfo
+Git Branch         : HEAD
+Git Commit Hash    : 0bc47666979df4766723adf1ab9c5d80f5e40537
+[2021-01-29 11:23:23] The FISCO-BCOS is running...
+config file path : config.ini
+[2021-01-29 14:59:19] Initializing...
+FISCO-BCOS Version : 2.7.0
+Build Time         : 20201126 08:04:59
+Build Type         : Darwin/appleclang/RelWithDebInfo
+Git Branch         : HEAD
+Git Commit Hash    : 0bc47666979df4766723adf1ab9c5d80f5e40537
+[2021-01-29 14:59:20] The FISCO-BCOS is running...
+[2021-01-29 14:59:28] FISCO-BCOS program exit normally.

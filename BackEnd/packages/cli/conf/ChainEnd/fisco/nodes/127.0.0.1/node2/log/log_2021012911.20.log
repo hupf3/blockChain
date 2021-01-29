@@ -1,0 +1,10 @@
+info|2021-01-29 11:20:35.615824|[INITIALIZER][initGlobalConfig],enableCompress=true,compatibilityVersion=2.7.0,versionNumber=34013184,enableStat=false,chainId=1,useSMCrypto=false
+info|2021-01-29 11:20:35.617039|[INITIALIZER][SecureInitializer]loading privateKey
+info|2021-01-29 11:20:35.627088|[INITIALIZER][SecureInitializer]get pub of node,nodeID=60db4abc8f9308c2457120de5aab6b54b6e20cf7013b9a434db3daa09846f571c3df348e71052cef2385e5aa5a38e30f9c07837dc28fced0c9ec17f7d2cf4d8f
+info|2021-01-29 11:20:35.627601|[INITIALIZER][SecureInitializer]use user certificate,file=conf//node.crt
+info|2021-01-29 11:20:35.628193|[INITIALIZER][SecureInitializer]use ca certificate,file=conf//ca.crt
+info|2021-01-29 11:20:35.628262|[INITIALIZER][SecureInitializer]use ca,file=conf//
+error|2021-01-29 11:20:35.628844|[INITIALIZER][P2PInitializer]initConfig for P2PInitializer failed,check Port=30302,EINFO=Throw location unknown (consider using BOOST_THROW_EXCEPTION)
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::system::system_error> >
+std::exception::what: bind: Address already in use
+
